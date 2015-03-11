@@ -1,7 +1,13 @@
 IIIT-Hyderabad
 Shubham Agarwal
 201330144
+=================================================================
+Running the game:
 
+	Download game.cpp and Makefile in one folder, go to the folder and enter the following commands in terminal:
+	$ make
+	$ ./carrom
+	Enjoy the game :P
 =================================================================
 Game:
 
